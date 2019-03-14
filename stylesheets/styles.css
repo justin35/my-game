@@ -1,0 +1,40 @@
+.card {
+    height: 100px;
+}
+
+#question {
+    
+}
+
+#player {
+    text-align:center;
+}
+#avatar {
+    display: none;
+}
+
+#titleimg {
+    max-width: 40%;
+
+}
+#avatarpicture {
+    max-width: 25%;
+    margin-left: 50px;
+}
+#textplayer {
+    margin-left: 50px;
+    font-size: 25px;
+    font-weight: bold;
+}
+#scorepoints {
+    display: none;
+}
+#myscore {
+    font-size: 60px;
+    font-weight: bold;
+}
+#fontscore {
+    
+    font-size: 25px;
+    font-weight: bold;
+}
